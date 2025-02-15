@@ -1,6 +1,6 @@
 
 TITLE: 
-Black - One Page Fully Responsive Free HTML5 template
+Mind3z - A Wellness Community
 
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
