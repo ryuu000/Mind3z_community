@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #555;
+        }
+        .more-info {
+            display: none;
+            margin-top: 10px;
+        }
+        .service {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Our Services</h1>
+
+    <div class="service">
+        <h2>Life Coaching</h2>
+        <p>Our life coaching services are designed to help you achieve your personal and professional goals. Through one-on-one sessions, we work with you to identify your strengths, overcome obstacles, and create a plan for success.</p>
+        <button onclick="toggleInfo('life-coaching')">More Information</button>
+        <div id="life-coaching" class="more-info">
+            <p>Additional information about Life Coaching...</p>
+        </div>
+    </div>
+
+    <div class="service">
+        <h2>Holistic Health</h2>
+        <p>Holistic health focuses on the well-being of the whole person—mind, body, and spirit. Our holistic health services include nutritional counseling, stress management techniques, and alternative therapies.</p>
+        <button onclick="toggleInfo('holistic-health')">More Information</button>
+        <div id="holistic-health" class="more-info">
+            <p>Additional information about Holistic Health...</p>
+        </div>
+    </div>
+
+    <div class="service">
+        <h2>Lucid Dream Coaching</h2>
+        <p>Lucid dreaming is the art of becoming aware that you are dreaming while you are still in the dream state. Our lucid dream coaching services teach you techniques to enhance your dream awareness and control.</p>
+        <button onclick="toggleInfo('lucid-dream-coaching')">More Information</button>
+        <div id="lucid-dream-coaching" class="more-info">
+            <p>Additional information about Lucid Dream Coaching...</p>
+        </div>
+    </div>
+
+    <script>
+        function toggleInfo(serviceId) {
+            const info = document.getElementById(serviceId);
+            if (info.style.display === "none" || info.style.display === "") {
+                info.style.display = "block";
+            } else {
+                info.style.display = "none";
+            }
+        }
+    </script>
+</body>
+  </html>
