@@ -2,50 +2,15 @@
 TITLE: 
 Mind3z - A Wellness Community
 
-AUTHOR:
-DESIGNED by ryuu000 & DEVELOPED by FREEHTML5
+AUTHOR: ryuu000 
 
 Website: www.mind3z.xyz
 
 
-CREDITS:
+CREDITS: To Be Updated Soon...
 
-Bootstrap
-http://getbootstrap.com/
-
-jQuery
-http://jquery.com/
-
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
-
-Modernizr
-http://modernizr.com/
-
-Google Fonts
-https://www.google.com/fonts/
-
-Icomoon
-https://icomoon.io/app/
-
-Simple Line Icons
-https://github.com/thesabbir/simple-line-icons
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+Our Vision: To Be Updated Soon...
 
 
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
 
-Demo Images:
-http://unsplash.com
 
-jQuery Counter
-https://github.com/mhuggins/jquery-countTo
